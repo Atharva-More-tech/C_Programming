@@ -14,15 +14,17 @@
 bool Check(int Arr[], int iLength)
 {
     int iCnt=0;
+    bool Bflag = false;
 
     for(iCnt = 0; iCnt < iLength ; iCnt++)
     {
         if(Arr[iCnt]==11)
         {
             return true;
+            break;
         }
     }
-    return false;
+    return Bflag;
 
 }
 int main()
