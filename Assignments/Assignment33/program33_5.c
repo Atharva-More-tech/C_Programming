@@ -2,7 +2,7 @@
 //////////////////////////
 //
 // Function Name: ChkCapital
-// Description: check whether it is capital or not (A-Z).
+// Description:  displays exam timing
 // INPUT : int
 // OUTPUT : void
 // Author : Atharva Sanjay More
@@ -40,4 +40,5 @@ int main()
     DisplaySchedule(cValue);
     
     return 0; 
+
 }
