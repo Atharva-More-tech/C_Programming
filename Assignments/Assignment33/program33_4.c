@@ -4,7 +4,7 @@
 //////////////////////////
 //
 // Function Name: ChkCapital
-// Description: check whether it is capital or not (A-Z).
+// Description: check whether it is Small case or not.
 // INPUT : char
 // OUTPUT : bool
 // Author : Atharva Sanjay More
@@ -41,3 +41,4 @@ int main()
     return 0; 
 
 }
+
