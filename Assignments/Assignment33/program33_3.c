@@ -4,7 +4,7 @@
 //////////////////////////
 //
 // Function Name: ChkCapital
-// Description: check whether it is capital or not (A-Z).
+// Description: check whether it is Digit or not.
 // INPUT : int
 // OUTPUT : bool
 // Author : Atharva Sanjay More
@@ -39,4 +39,5 @@ int main()
     printf("It is not a  Digit"); 
     } 
     return 0; 
+
 }
