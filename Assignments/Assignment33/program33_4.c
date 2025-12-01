@@ -1,6 +1,16 @@
 #include<stdio.h>
 #define TRUE 1 
 #define FALSE 0 
+//////////////////////////
+//
+// Function Name: ChkCapital
+// Description: check whether it is capital or not (A-Z).
+// INPUT : char
+// OUTPUT : bool
+// Author : Atharva Sanjay More
+// Date : 29/11/25
+//
+//////////////////////////
 
 typedef int bool; 
 bool ChkDigit(char ch) 
@@ -29,4 +39,5 @@ int main()
     printf("It is not a Small case Character"); 
     } 
     return 0; 
+
 }
