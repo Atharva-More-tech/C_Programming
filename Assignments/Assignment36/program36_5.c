@@ -6,7 +6,7 @@
 // INPUT : int
 // OUTPUT : int
 // Author : Atharva Sanjay More
-// Date : 29/12/25
+// Date : 15/12/25
 //
 //////////////////////////
 int CountWhite(char *str) 
@@ -34,4 +34,5 @@ iRet = CountWhite(arr);
 printf("%d",iRet); 
 
 return 0;
+
 }
