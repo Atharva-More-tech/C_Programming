@@ -1,4 +1,14 @@
 #include<stdio.h>
+///////////////////////////////////////////////////////////////////////////////////
+//
+// Function Name: StrCpyCap
+// Description:   string by converting all small characters into capital case.
+// Input: char,char
+// Output : void
+// Author : Atharva Sanjay More
+// Date : 16/12/25
+//
+///////////////////////////////////////////////////////////////////////////////////
 void StrCpyCap(char *src, char *dest) 
 { 
     while(*src != '\0')
@@ -27,4 +37,5 @@ int main()
     printf("%s",brr); // MARVELLOUS PYTHON 2  
 
     return 0;
+
 }
