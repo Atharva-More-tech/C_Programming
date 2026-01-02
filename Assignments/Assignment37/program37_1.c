@@ -6,7 +6,7 @@
 // INPUT : BOOL
 // OUTPUT : BOOL
 // Author : Atharva Sanjay More
-// Date : 29/12/25
+// Date : 15/12/25
 //
 //////////////////////////
 #define TRUE 1 
@@ -43,4 +43,5 @@ else
 printf("Character not found"); 
 } 
 return 0; 
+
 } 
