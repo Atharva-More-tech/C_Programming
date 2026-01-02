@@ -1,8 +1,8 @@
 #include<stdio.h>
 ///////////////////////////////////////////////////////////////////////////////////
 //
-// Function Name: StrCpySmall
-// Description:   string by converting all small characters into small case.
+// Function Name: StrCpyToggle
+// Description:   string by converting all small characters into StrCpyToggle case.
 // Input: char,char
 // Output : void
 // Author : Atharva Sanjay More
@@ -41,4 +41,5 @@ int main()
     printf("%s",brr); //   mARVELLOUS pYTHON 2  
 
     return 0;
+
 }
