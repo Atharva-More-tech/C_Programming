@@ -6,7 +6,7 @@
 // INPUT : char
 // OUTPUT : int
 // Author : Atharva Sanjay More
-// Date : 29/12/25
+// Date : 15/12/25
 //
 //////////////////////////
 int LastChar(char *str, char ch) 
@@ -38,4 +38,5 @@ scanf(" %c",&cValue);
 iRet = LastChar(arr, cValue); 
 printf("Character location is %d",iRet); 
 return 0;
+
 }
