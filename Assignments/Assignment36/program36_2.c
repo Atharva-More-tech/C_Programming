@@ -6,7 +6,7 @@
 // INPUT : string
 // OUTPUT : string
 // Author : Atharva Sanjay More
-// Date : 29/12/25
+// Date : 15/12/25
 //
 //////////////////////////
 void struprx(char *str) 
@@ -28,4 +28,5 @@ scanf("%[^'\n']s",arr);
 struprx(arr); 
 printf("Modified string is :%s",arr); 
 return 0; 
+
 }
