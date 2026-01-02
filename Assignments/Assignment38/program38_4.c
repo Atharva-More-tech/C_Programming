@@ -6,7 +6,7 @@
 // Input: char,char
 // Output : void
 // Author : Atharva Sanjay More
-// Date : 29/12/25
+// Date : 16/12/25
 //
 ///////////////////////////////////////////////////////////////////////////////////
 void StrCpySmall(char *src, char *dest) 
@@ -37,4 +37,5 @@ int main()
     printf("%s",brr); //  marvellous python 2  
 
     return 0;
+
 }
