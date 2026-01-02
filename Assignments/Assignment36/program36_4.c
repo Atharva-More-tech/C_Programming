@@ -6,7 +6,7 @@
 // INPUT : void
 // OUTPUT : char
 // Author : Atharva Sanjay More
-// Date : 29/12/25
+// Date : 15/12/25
 //
 //////////////////////////
 void DisplayDigit(char *str) 
@@ -26,4 +26,5 @@ char arr[20];
 printf("Enter string :"); 
 scanf("%[^'\n']s",arr); 
 DisplayDigit(arr); 
+
 }
