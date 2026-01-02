@@ -6,7 +6,7 @@
 // INPUT : char
 // OUTPUT : int
 // Author : Atharva Sanjay More
-// Date : 29/12/25
+// Date : 15/12/25
 //
 //////////////////////////
 int CountChar(char *str, char ch)
@@ -34,4 +34,5 @@ scanf(" %c",&cValue);
 iRet = CountChar(arr, cValue); 
 printf("Character frequency is %d",iRet); 
 return 0; 
+
 } 
