@@ -6,7 +6,7 @@
 // Input: char,char
 // Output : void
 // Author : Atharva Sanjay More
-// Date : 29/12/25
+// Date : 16/12/25
 //
 ///////////////////////////////////////////////////////////////////////////////////
 void StrCpyRev(char *src, char *dest) 
@@ -36,3 +36,4 @@ StrCpyRev(arr,brr);
 printf("%s",brr);  // nohtyP suollevraM 
 return 0; 
 } 
+
